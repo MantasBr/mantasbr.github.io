@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LD4</title>
+    
+    
+    
+    <link>https://mantasbr.github.io/</link>
+    <description>Recent content on LD4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 00:03:53 +0200</lastBuildDate>
+    
+	<atom:link href="https://mantasbr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FirstPost</title>
+      <link>https://mantasbr.github.io/posts/firstpost/</link>
+      <pubDate>Sun, 04 Dec 2022 00:03:53 +0200</pubDate>
+      
+      <guid>https://mantasbr.github.io/posts/firstpost/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Pirmas sakinys. Antras sakinys.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
